@@ -1,0 +1,26 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment
+venv/
+ENV/
+env/
+.env
+
+# Database & Storage
+*.db
+*.sqlite3
+
+# Streamlit & IDE
+.streamlit/
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+scratch/
+*.tmp
